@@ -5,6 +5,6 @@
 ## intend:solutions
 * Sharms
 * Blue
-* Contact
+* Contact us
 ## intend:greetings
 * Welcome
